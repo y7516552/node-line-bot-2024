@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build":""
   },
   "dependencies": {
     "dotenv": "^16.4.5",

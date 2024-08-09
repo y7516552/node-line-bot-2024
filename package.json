@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "linebot": "^1.6.1"
   }
 }

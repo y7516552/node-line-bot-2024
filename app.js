@@ -1,5 +1,7 @@
 var linebot = require('linebot');
 
+require('dotenv').config();
+
 // 用於辨識Line Channel的資訊
 var bot = linebot({
   channelId: process.env.CHANNEL_ID,
